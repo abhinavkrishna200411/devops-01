@@ -1,10 +1,9 @@
 name: Deploy to Staging (EC2)
-
+# Abhina
 on:
     push:
         branches:
             - main
-            -develop
     workflow_dispatch: {}
 
 concurrency:
