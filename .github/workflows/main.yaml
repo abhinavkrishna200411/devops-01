@@ -1,5 +1,5 @@
 name: Deploy to Staging (EC2)
-# Abhina
+
 on:
     push:
         branches:
